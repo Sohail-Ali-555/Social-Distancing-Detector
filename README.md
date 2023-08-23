@@ -1,7 +1,7 @@
 # Social-Distancing-Detector
 A Python program that processes input video for human detection and checks whether observed pedestrians / people are following minimum social distancing rule or not.  
 ## Installing pre-requisite Python libraries
-To install the modules, download the requirements.txt file and open command prompt or powershell window in the same directory and type-in the following command:
+To install the modules, download the [**requirements.txt**](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/blob/main/requirements.txt) file and open command prompt or powershell window in the same directory and type-in the following command:
 **pip install -r requirements.txt**
 
 Note: Modules like NumPy, SciPy, OpenCV, Imutils, Pygame are chosen for their latest versions as of this commit date, since latest versions will generally offer max. possible performance speed.
