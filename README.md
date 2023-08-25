@@ -18,16 +18,16 @@ or by opening the main.py file through any IDE like VS Code or PyCharm and runni
 Rest of the instructions are explained as comments in the program file.
 
 ## Program Screenshots
-<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d)" width="600">
+<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d)" width="800">
 <br>
 Original pre-recorded CCTV footage.
 <br><br>
 
-<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/ffcd7319-1f8d-4687-8fe3-2ce0dada0159" width="600">
+<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/ffcd7319-1f8d-4687-8fe3-2ce0dada0159" width="800">
 <br>
 Processed Image/Frame when number of social distancing violations are lower than threshold/safety limit.
 <br><br>
 
-<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/b248c566-f0d5-4361-97aa-f4437b98586e" width="600">
+<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/b248c566-f0d5-4361-97aa-f4437b98586e" width="800">
 <br>
 Processed Image/Frame, here number of violations exceed threshold/safety limit. 
