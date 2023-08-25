@@ -26,6 +26,3 @@ Processed Image/Frame when number of social distancing violations are lower than
 <br><br>
 ![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/b248c566-f0d5-4361-97aa-f4437b98586e)
 Processed Image/Frame, here number of violations exceed threshold/safety limit. 
-
-![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/b248c566-f0d5-4361-97aa-f4437b98586e)
-img[alt=mypic] { width: 200px; }
