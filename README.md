@@ -19,4 +19,10 @@ Rest of the instructions are explained as comments in the program file.
 
 ## Program Screenshots
 ![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d)
+Original pre-recorded CCTV footage.
 
+![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/ffcd7319-1f8d-4687-8fe3-2ce0dada0159)
+Processed Image/Frame when number of social distancing violations are low than threshold/safety limit.
+
+![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/b248c566-f0d5-4361-97aa-f4437b98586e)
+Processed Image/Frame, here number of violations exceed threshold/safety limit. 
