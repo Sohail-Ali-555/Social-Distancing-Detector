@@ -16,3 +16,7 @@ Since GitHub doesn't allows to have upload(s) of single file beyond 100MB size (
 The entire Python program is contained within the single [**main.py**](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/blob/main/main.py) file. It can either be run by first opening command prompt or powershell window in the directory and typing the following command: **python .\main.py**
 or by opening the main.py file through any IDE like VS Code or PyCharm and running it from there.
 Rest of the instructions are explained as comments in the program file.
+
+## Program Screenshots
+![image](https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d)
+
