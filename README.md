@@ -18,7 +18,7 @@ or by opening the main.py file through any IDE like VS Code or PyCharm and runni
 Rest of the instructions are explained as comments in the program file.
 
 ## Program Screenshots
-<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d)" width="700">
+<img src="https://github.com/Sohail-Ali-555/Social-Distancing-Detector/assets/103688890/926d682f-9b2a-499e-b37f-fdb69ecde30d" width="700">
 <br>
 Original pre-recorded CCTV footage.
 <br><br>
