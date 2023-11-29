@@ -53,7 +53,7 @@ def detect_people(frame, net, ln, personIdx=0):
     for output in layerOutputs:
         # loop over each of the detections
         for detection in output:
-            # extract teh class ID and confidence(probability) of the current object detection
+            # extract the class ID and confidence(probability) of the current object detection
             scores = detection[5:]
             classID = np.argmax(scores)
             confidence = scores[classID]
